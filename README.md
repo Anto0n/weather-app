@@ -11,3 +11,5 @@
 2. Install the dependencies
 
    `npm i`
+
+3. Follow installation steps from [Expo website](https://expo.io/learn)
